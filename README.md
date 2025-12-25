@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web development<br><br>data structures and algorithms<br>
+Innovative Software Engineer with a strong foundation programming and problem-solving proficient in multiple programming languages and development tools. Experienced in full-stack development and implement scalable, efficient and maintainable software solutions.<br>
 
 
 ## 🌐 Socials:
